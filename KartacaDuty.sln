@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KartacaDuty", "KartacaDuty\KartacaDuty.csproj", "{CEAAACF0-ACD8-4468-BA9D-67D4B9F8529F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEAAACF0-ACD8-4468-BA9D-67D4B9F8529F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEAAACF0-ACD8-4468-BA9D-67D4B9F8529F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEAAACF0-ACD8-4468-BA9D-67D4B9F8529F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEAAACF0-ACD8-4468-BA9D-67D4B9F8529F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D0BB90A-05E3-459F-AD4B-B29F5FCE8672}
+	EndGlobalSection
+EndGlobal
